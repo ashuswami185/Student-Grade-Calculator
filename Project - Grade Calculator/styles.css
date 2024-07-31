@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+body {
+    background-color: #F5EDED;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.heading {
+
+
+    height: inherit;
+    height: 10vh;
+
+    font-size: 50px;
+    width: 100%;
+    text-align: center;
+    justify-items: center;
+
+    top: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    opacity: .8;
+    padding-top: 50px;
+}
+
+
+
+
+.marks-table {
+
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    min-height: 30vh;
+    padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    ;
+}
+
+.marks-left {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    width: 50%;
+
+    align-items: center;
+}
+
+.marks-right {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    width: 50%;
+    align-items: center;
+
+}
+
+h3 {
+    font-size: 25px;
+
+}
+
+input {
+    width: 150px;
+    height: 25px;
+    background: transparent;
+    border: solid black 1px;
+    border-radius: 5px;
+
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    min-height: 5vh;
+}
+
+button {
+    width: 150px;
+    border-radius: 4px;
+    font-size: 20px;
+
+}
+.result-heading {
+font-size: 30px;
+text-align: center;
+padding: 30px;
+text-decoration: underline;
+display: none;
+
+}
+
+

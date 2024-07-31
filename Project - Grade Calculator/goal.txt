@@ -1,0 +1,18 @@
+We are gonna desing a grade calculator 
+
+html designed 
+css designed 
+
+
+js code 
+
+
+we need to take input from the html and put it in calculation in order to give result 
+
+marks / 400 * 100 = result 
+resulted based grades
+
+\
+
+
+
